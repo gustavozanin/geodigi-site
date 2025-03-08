@@ -14,9 +14,16 @@ header {
     text-align: center;
 }
 
+.logo img {
+    width: 100px; /* Ajuste conforme necessário */
+    display: block;
+    margin: 0 auto;
+}
+
 nav ul {
     list-style: none;
     padding: 0;
+    text-align: center;
 }
 
 nav ul li {
