@@ -1,0 +1,23 @@
+/* Define a fonte padrão para o corpo do documento */
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Estilização personalizada da barra de rolagem para melhor estética */
+::-webkit-scrollbar {
+    width: 8px; /* Largura da barra de rolagem */
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1; /* Cor de fundo da trilha da barra de rolagem */
+    border-radius: 10px; /* Borda arredondada para a trilha */
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888; /* Cor do "polegar" da barra de rolagem */
+    border-radius: 10px; /* Borda arredondada para o polegar */
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555; /* Cor do polegar ao passar o mouse */
+}
