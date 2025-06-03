@@ -21,7 +21,7 @@ function loadContent(sectionId) {
             <div class="space-y-8">
                 <h2 class="text-4xl font-bold text-blue-700 mb-4">Educação para Riscos</h2>
                 <p class="text-lg text-gray-700">Esta seção é dedicada à compreensão dos riscos ambientais e como podemos nos preparar e agir.</p>
-
+                <a href="https://www.canva.com/design/DAE_CL1cNX0/XQ3xrAhdb4JOPqwa1dkUoQ/edit?utm_content=DAE_CL1cNX0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" class="text-blue-500 hover:underline">Acesse o material complementar aqui</a>
                 <!-- Seção de Observação de Imagens -->
                 <div class="bg-blue-50 p-6 rounded-lg shadow-md">
                     <h3 class="text-2xl font-semibold text-blue-800 mb-4">VAMOS OBSERVAR AS IMAGENS</h3>
