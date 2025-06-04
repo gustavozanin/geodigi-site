@@ -11,7 +11,7 @@ function loadContent(sectionId) {
                 <p class="text-lg text-gray-600 max-w-2xl mx-auto leading-relaxed">
                     Neste espaço, vamos mergulhar em uma nova jornada cheia de estudo e diversão. Será uma experiência incrível e repleta de aprendizado sobre o nosso mundo!
                 </p>
-                <img src="https://placehold.co/600x300/e0f2fe/0288d1?text=GEODIGI+Bem-vindo" alt="Imagem de boas-vindas GEODIGI" class="mx-auto mt-8 rounded-lg shadow-lg">
+                <img src="https://www.canva.com/design/DAE_CL1cNX0/XQ3xrAhdb4JOPqwa1dkUoQ/edit?utm_content=DAE_CL1cNX0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Imagem de boas-vindas GEODIGI" class="mx-auto mt-8 rounded-lg shadow-lg">
             </div>
         `;
     }
@@ -19,9 +19,12 @@ function loadContent(sectionId) {
     else if (sectionId === 'educacao-riscos') {
         contentArea.innerHTML = `
             <div class="space-y-8">
+                <!-- Imagem de capa para a seção Educação para Riscos -->
+                <img src="https://content.googleapis.com/drive/v1/files/1vYl3u1Z6q7N5Xp5o5M0V5O0C0W0E0G0/thumbnail?alt=media" alt="Aprender para Prevenir - O que são riscos ambientais?" class="w-full rounded-lg shadow-md mb-8">
+
                 <h2 class="text-4xl font-bold text-blue-700 mb-4">Educação para Riscos</h2>
                 <p class="text-lg text-gray-700">Esta seção é dedicada à compreensão dos riscos ambientais e como podemos nos preparar e agir.</p>
-                <a href="https://www.canva.com/design/DAE_CL1cNX0/XQ3xrAhdb4JOPqwa1dkUoQ/edit?utm_content=DAE_CL1cNX0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" class="text-blue-500 hover:underline">Acesse o material complementar aqui</a>
+
                 <!-- Seção de Observação de Imagens -->
                 <div class="bg-blue-50 p-6 rounded-lg shadow-md">
                     <h3 class="text-2xl font-semibold text-blue-800 mb-4">VAMOS OBSERVAR AS IMAGENS</h3>
